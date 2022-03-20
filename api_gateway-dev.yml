@@ -60,7 +60,7 @@ spring:
   r2dbc:
     url: r2dbc:mysql://localhost:3306/api_gateway?useSSL=false
     username: phpmyadmin
-    password: 1234561
+    password: 123456
   thymeleaf:
     cache: false
   sleuth:
